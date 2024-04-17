@@ -1,1 +1,0 @@
-kotlinc src/main.kt -include-runtime -d build/klox.jar
